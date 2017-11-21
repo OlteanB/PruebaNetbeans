@@ -1,2 +1,0 @@
-# PruebaNetbeans
-Proyecto de prueba
